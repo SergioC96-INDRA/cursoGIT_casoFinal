@@ -1,4 +1,4 @@
-Write-Host "Hola Mundo" 
+Write-Host "Hola Mundo - Robot" 
 
 Write-Host "|---------|"
 Write-Host "| O     O |"
