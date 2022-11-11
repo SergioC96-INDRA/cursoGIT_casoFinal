@@ -1,0 +1,15 @@
+Roman Soroka => rsoroka@indra.es 
+Santiago Pelaez - sanpelap@gmail.com hola desde mi rama de desarrollo 
+Sergio Carrasco --> Mi modificaci�n ( ͡❛ ͜ʖ ͡❛)
+
+
+Otra modificaci�n
+
+
+#Caso 2 10/11/2022
+
+|---------|
+| O     O |
+|    ^    |
+| >>>>>>> |
+|---------|
